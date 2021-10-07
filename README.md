@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshaygane159
+- 👋 Hi, I’m @akshaygane
 - 👀 I’m interested in python, data science, ML, NLP, DL, AI
 - 🌱 I’m currently learning ML, DL
 - 💞️ I’m looking to collaborate on data science contribution
